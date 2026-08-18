@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+profiles/
+accounts.json
+config.json
+
+SessionBox/
+diag_profile/
+test.py
+test_install.py
+check_ext.py
+*.txt
